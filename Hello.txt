@@ -1,9 +1,6 @@
 Hello 
 hello vamshi how are u
 hi hello
-<<<<<<< Updated upstream
 Hello
-=======
 Hello world from intellipaat
 Welcome guys
->>>>>>> Stashed changes
